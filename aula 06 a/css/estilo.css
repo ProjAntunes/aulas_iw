@@ -1,0 +1,17 @@
+p{
+    columns:red ;
+}
+.um{
+    color:aquamarine ;
+}
+.dois{
+    color: chocolate;
+}
+.tres{
+    color: rgb(162, 14, 247);
+}
+#titulo{
+    color: rgb(228, 10, 10);
+    border: 2px solid blue;
+    background-color:black ;
+}
