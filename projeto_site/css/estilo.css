@@ -1,0 +1,17 @@
+.banner{
+    width: 100%;
+}
+
+header {
+    background-color: black;
+}
+.container{
+    width: 80%;
+    background-color: antiquewhite;
+    margin: auto;
+}
+
+footer{
+    background-color: blanchedalmond;
+    width: 100;
+}
